@@ -148,15 +148,20 @@ We welcome contributions to DesignDeck! To contribute:
 
 ### Note: Use npm run build and check for conflicts before submitting a pull request, as conflicts can delay merging pull requests.
 
-## Contributors
+# Contributors 🙋🏽
 
 A heartfelt thank you to the following individuals for their valuable contributions to this project. Your support and dedication are greatly appreciated:
 
-<a href="https://github.com/jahnvisahni31/DesignDeck/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jahnvisahni31/DesignDeck" />
-</a>
+<p align="center">
+      <a href="https://github.com/jahnvisahni31/DesignDeck/graphs/contributors">
+        <img src="https://api.vaunt.dev/v1/github/entities/jahnvisahni31/repositories/DesignDeck/contributors?format=svg&limit=54" width="700" height="250" />
+      </a>
+</p>
 
 <br>
+
+We truly appreciate your time and effort to help improve our project. Happy coding! 🚀
+
 
 ## Stargazers
 
